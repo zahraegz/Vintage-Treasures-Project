@@ -1,4 +1,6 @@
 # Vintage-Treasures-Project
+Vintage Treasures is a curated digital marketplace designed for discovering one-of-a-kind antiques.
+From mid-century furniture to Victorian-era decor, this platform celebrates classic aesthetics with modern tech.
 Built with a robust PHP backend and MySQL database, it ensures a seamless experience for every collector.
 Features include secure user authentication, dynamic product listings, and a responsive, elegant interface.
 Step into the past and bring history to your doorstep with this unique, full-stack e-commerce solution.
